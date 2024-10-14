@@ -7,7 +7,7 @@ body {
 .container {
     width: 25%;
     min-width: 260px;
-    margin: 100px auto;
+    margin: 50px auto;
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
     border-radius: 10px;
@@ -30,6 +30,6 @@ body {
 @media only screen and (max-width: 375px) {
     .container {
         width: 80%;
-        margin: 100px auto;
+        margin: 50px auto;
     }
 }
